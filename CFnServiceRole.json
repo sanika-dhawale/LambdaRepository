@@ -23,7 +23,7 @@
 				"lambda:*"
 			],
 			"Resource": [
-				"arn:aws:lambda:ap-southeast-2:093833860903:function:*"
+				"arn:aws:lambda:ap-southeast-1:200615728884:function:*"
 			],
 			"Effect": "Allow"
 		},
